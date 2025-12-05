@@ -282,8 +282,8 @@ SOFTWARE.
 **Puneet Khandelwal**
 
 - 🌐 Portfolio: [puneet-khandelwal-porfolio.vercel.app](https://puneet-khandelwal-porfolio.vercel.app/)
-- 💼 GitHub: [@yourusername](https://github.com/yourusername)
-- 📧 Email: your.email@example.com
+- 💼 GitHub: [@Puneet0744](https://github.com/Puneet0744)
+- 📧 Email: puneetkh16@gmail.com
 
 ## ⭐ Show your support
 
