@@ -21,7 +21,6 @@ A beautiful, modern, and eye-catching QR code generator web application with dar
 ## 📋 Table of Contents
 
 - [Features](#-features)
-- [Demo](#-demo)
 - [Technologies Used](#-technologies-used)
 - [Installation](#-installation)
 - [Usage](#-usage)
@@ -66,11 +65,6 @@ A beautiful, modern, and eye-catching QR code generator web application with dar
 - **jQuery** - DOM manipulation (via CDN)
 - **QRCode.js** - QR code generation library (via CDN)
 - **Google Fonts** - Inter font family
-
-## 🎬 Demo
-
-> **Live Demo:** [View Live](https://yourusername.github.io/QR-Code-Generator/)  
-> **Note:** Replace `yourusername` with your GitHub username if hosting on GitHub Pages
 
 ### Screenshots
 
