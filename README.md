@@ -67,6 +67,7 @@ A beautiful, modern, and eye-catching QR code generator web application with dar
 - **Google Fonts** - Inter font family
 
 ### Screenshots
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/090d901a-2286-4dd4-a6db-4a7010860ede" />
 
 <!-- Add your screenshots here -->
 <!-- ![Dark Mode](screenshots/dark-mode.png)
