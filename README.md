@@ -4,9 +4,6 @@
 
 A beautiful, modern, and eye-catching QR code generator web application with dark mode support. Generate QR codes instantly from URLs or text with a sleek, responsive design.
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/QR-Code-Generator.svg?style=social&label=Star)](https://github.com/yourusername/QR-Code-Generator)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/QR-Code-Generator.svg?style=social&label=Fork)](https://github.com/yourusername/QR-Code-Generator/fork)
-[![GitHub watchers](https://img.shields.io/github/watchers/yourusername/QR-Code-Generator.svg?style=social&label=Watch)](https://github.com/yourusername/QR-Code-Generator)
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
