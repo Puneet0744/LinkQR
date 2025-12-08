@@ -11,8 +11,8 @@ A beautiful, modern, and eye-catching QR code generator web application with dar
 [![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)](https://jquery.com/)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub issues](https://img.shields.io/github/issues/yourusername/QR-Code-Generator)](https://github.com/yourusername/QR-Code-Generator/issues)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/yourusername/QR-Code-Generator)](https://github.com/yourusername/QR-Code-Generator/pulls)
+[![GitHub issues](https://img.shields.io/github/issues/yourusername/QR-Code-Generator)](https://github.com/Puneet0744/LinkQR/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/yourusername/QR-Code-Generator)](https://github.com/Puneet0744/LinkQR/pulls)
 
 </div>
 
