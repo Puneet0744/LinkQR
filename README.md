@@ -80,8 +80,8 @@ A beautiful, modern, and eye-catching QR code generator web application with dar
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/QR-Code-Generator.git
-   cd QR-Code-Generator
+   git clone https://github.com/Puneet0744/LinkQR.git
+   cd LinkQR
    ```
    
    Or [download as ZIP](https://github.com/yourusername/QR-Code-Generator/archive/refs/heads/main.zip)
